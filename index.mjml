@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-raw>
+    <!-- Header Logo -->
+  </mj-raw>
+  <mj-body>
+  <mj-section background-color="#483D8B"  padding-left="20px">
+  <mj-column>
+  <mj-text font-family="Jazz LET, fantasy" font-size="30px" color="white">Frank's Machine Co.</mj-text>
+  </mj-column>
+  </mj-section>
+  <mj-raw>
+    <!-- Welcome Message -->
+  </mj-raw>
+  
+  <mj-section background-color="#F8F8FF"  padding-left="20px">
+  <mj-column>
+  <mj-text  font-size="15px" color="black">Welcome to the Team!,<br><br>We are excited to have you join the family. Our company strives for excellence in all our endeavors, and we are glad to have someone of your caliber as part of the team.</mj-text>
+  </mj-column>
+  </mj-section>
+ 
+
+   <mj-raw>
+    <!-- Divider -->
+  </mj-raw>
+  <mj-section background-color="#F8F8FF">
+      <mj-column>
+        <mj-divider container-background-color="#F8F8FF" border-width="10px" border-style="solid" border-color="#483D8B"/>
+      </mj-column>
+    </mj-section>
+
+
+  <mj-raw>
+    <!-- Header Logo -->
+  </mj-raw>
+  
+  <mj-section background-color="#F8F8FF">
+  <mj-column>
+        <mj-image width="450px" src="https://img.freepik.com/premium-photo/handshake-men-white-clothes-industrial-interior-factory-enterpriseclose-up_116578-2728.jpg"/>     
+  </mj-column>
+  </mj-section>
+
+  <mj-raw>
+    <!-- Divider -->
+  </mj-raw>
+  <mj-section background-color="#F8F8FF">
+      <mj-column>
+        <mj-divider container-background-color="#F8F8FF" border-width="10px" border-style="solid" border-color="#483D8B"/>
+      </mj-column>
+    </mj-section>
+
+  <mj-raw>
+    <!-- Welcome Message -->
+  </mj-raw>
+  
+  <mj-section background-color="#F8F8FF"  padding-left="20px">
+  <mj-column>
+  <mj-text  font-size="15px" color="black">We look forward to you joining our team,<br><br>If you have any questions or concerns, please make sure to contact HR and we will gladly assist you.</mj-text>
+  </mj-column>
+  </mj-section>
+
+  <mj-raw>
+    <!-- Welcome Message -->
+  </mj-raw>
+  
+  <mj-section background-color="#F8F8FF"  padding-left="20px">
+  <mj-group>
+  <mj-column>
+  <mj-image src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" href="https://facebook.com" width="20px" height="20px">
+  </mj-column>
+  <mj-column>
+  <mj-image src="https://static-00.iconduck.com/assets.00/social-instagram-icon-512x512-6mp2zfl3.png" href="https://instagram.com" width="20px" height="20px">
+  </mj-column>
+  <mj-column>
+  <mj-image src="https://i.pinimg.com/736x/5e/7d/bb/5e7dbb535639cf4291fb03e70adfafd1.jpg" href="X.com" width="20px" height="20px">
+  </mj-column>
+  
+  
+  
+  
+  </mj-group>
+  </mj-section>
+  </mj-body>
+
+
+
+
+</mjml>
